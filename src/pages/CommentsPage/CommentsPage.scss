@@ -1,0 +1,12 @@
+.comments-page {
+  width: 100%;
+  height: auto;
+
+  &__content {
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+}
